@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "Aleablog redux"
+    "title": "Aleablog redux",
+    "description": "Luca Erzegovesi parla di banche"
   },
   "socialnetwork": {
     "twitter": "lerzegov"
