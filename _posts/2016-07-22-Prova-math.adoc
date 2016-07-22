@@ -1,0 +1,7 @@
+= Prova math
+
+:stem:
+
+
+
+stem:[x = (y^2)/(1+r)^n]
