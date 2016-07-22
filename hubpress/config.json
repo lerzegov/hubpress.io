@@ -7,7 +7,7 @@
   "site": {
     "title": "Aleablog redux",
     "description": "Luca Erzegovesi parla di banche. Work in progress",
-    "logo": "https://github.com/lerzegov/lerzegov.github.io/blob/master/images/aleablog_text.png"
+    "logo": "/images/aleablog_text.png"
   },
   "socialnetwork": {
     "twitter": "@lerzegov"
