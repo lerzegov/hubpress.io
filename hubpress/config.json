@@ -7,7 +7,9 @@
   "site": {
     "title": "Aleablog redux"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "lerzegov"
+  },
   "theme": {
     "name": "casper"
   }
