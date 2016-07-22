@@ -1,4 +1,0 @@
-= Ciao
-:stem:
-
-stem:[x=y^2]
