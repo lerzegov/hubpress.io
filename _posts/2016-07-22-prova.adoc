@@ -1,0 +1,11 @@
+= prova
+:stem:
+
+== CIAO
+
+stem:[s = y/2]
+
+[stem]
+++++
+sqrt(x)
+++++
