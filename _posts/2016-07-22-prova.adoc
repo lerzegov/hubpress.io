@@ -5,7 +5,7 @@
 
 stem:[s = y/2]
 
-[asciimath]
+[latexmath]
 ++++
 sqrt(x)
 ++++
