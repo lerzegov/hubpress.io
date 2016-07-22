@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Aleablog redux]]></title><description><![CDATA[Aleablog redux]]></description><link>https://lerzegov.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 22 Jul 2016 08:43:19 GMT</lastBuildDate><atom:link href="https://lerzegov.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Il buyback dei titoli bancari: un'arma in più contro la paura da bail-in]]></title><description><![CDATA[<div id="toc" class="toc">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Aleablog redux]]></title><description><![CDATA[Aleablog redux]]></description><link>https://lerzegov.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 22 Jul 2016 08:45:10 GMT</lastBuildDate><atom:link href="https://lerzegov.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Il buyback dei titoli bancari: un'arma in più contro la paura da bail-in]]></title><description><![CDATA[<div id="toc" class="toc">
 <div id="toctitle">Sommario</div>
 <ul class="sectlevel1">
 <li><a href="#_paragrafi_miei_tagliati">1. paragrafi miei tagliati</a></li>
@@ -14,6 +14,9 @@
 <div class="sectionbody">
 <div class="paragraph">
 <p>Nelle turbolenze post-Brexit, il Governo italiano è alla ricerca di soluzioni per tutelare la stabilità delle banche senza esporre il risparmio bancario al rischio di <em>bail-in</em>.</p>
+</div>
+<div class="paragraph">
+<p>\$x = (y^2)/(1+r)^n\$</p>
 </div>
 <div class="paragraph">
 <p>La direttiva europea BRRD detta un protocollo di cura delle crisi bancarie che prevede, in rapida sequenza, l&#8217;emersione delle perdite latenti e la ricostituzione del capitale di Vigilanza al livello richiesto dalle Autorità (la BCE per le banche "significative" e la Banca d&#8217;Italia per le altre). Se dopo la rilevazione delle perdite la banca si ritrova con un capitale azzerato, o insufficiente a raggiungere il target posto dai supervisori (<em>guidance</em>), scatta il <em>bail-in</em> (in senso lato): il <em>capital gap</em> si copre con la svalutazione o con la conversione in azioni del debito subordinato e di quello non garantito (sono esclusi i depositi fino a 100.000 euro e i <em>covered bond</em>), in ordine inverso di <em>seniority</em>, con i privilegi e le esenzioni previste dalla BRRD o dalle norme di recepimento. Soltanto dopo questo <em>burden sharing</em> a carico di azionisti e creditori aggredibili per almeno l'8% del totale di bilancio, la banca può ottenere fondi pubblici (in senso lato) dallo Stato, dai sistemi obbligatori di garanzia dei depositi, o dal Fondo di risoluzione istituito dalla BRRD.</p>
