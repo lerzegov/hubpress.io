@@ -1,0 +1,8 @@
+= Mo te passa
+
+:stem: latexmath
+
+
+== Questa sì che è vita
+
+stem:[x=2/y]
