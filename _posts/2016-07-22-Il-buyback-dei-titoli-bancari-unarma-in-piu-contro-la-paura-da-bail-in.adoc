@@ -7,7 +7,7 @@ Luca Erzegovesi <mailto:luca.erzegovesi@unitn.it[@lerzegov]>
 :bib-style: apa
 :bib-no-links:
 :imagesdir: images
-:stem:
+:stem: latexmath
 :sectnums:
 :toc: left
 :toc-title: Sommario
