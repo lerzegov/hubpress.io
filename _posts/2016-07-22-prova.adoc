@@ -1,5 +1,5 @@
 = prova
-:stem:
+:stem: latex
 
 CIAO
 
