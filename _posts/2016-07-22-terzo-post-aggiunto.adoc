@@ -1,0 +1,10 @@
+= terzo post aggiunto
+
+:stem: latexmath
+
+== vediamo se cambia app.js
+
+Ciao amico
+
+
+stem:[y = sin(x)]
