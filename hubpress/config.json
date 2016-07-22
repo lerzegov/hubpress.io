@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Aleablog redux",
-    "description": "Luca Erzegovesi parla di banche. Work in progress"
+    "description": "Luca Erzegovesi parla di banche. Work in progress",
+    "logo": "aleablog_text.png"
   },
   "socialnetwork": {
     "twitter": "@lerzegov"
