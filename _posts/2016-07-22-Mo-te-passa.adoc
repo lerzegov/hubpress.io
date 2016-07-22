@@ -4,6 +4,7 @@
 
 
 == Questa sì che è vita
+modificato vediamo se fa l'equazione
 
 stem:[x=2/y]
 
