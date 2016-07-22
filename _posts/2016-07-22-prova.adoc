@@ -1,0 +1,6 @@
+= prova
+:stem:
+
+CIAO
+
+stem:[s = y/2]
