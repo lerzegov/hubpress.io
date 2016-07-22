@@ -30,6 +30,8 @@ Luca Erzegovesi <mailto:luca.erzegovesi@unitn.it[@lerzegov]>
 
 Nelle turbolenze post-Brexit, il Governo italiano è alla ricerca di soluzioni per tutelare la stabilità delle banche senza esporre il risparmio bancario al rischio di _bail-in_.
 
+stem:[x = (y^2)/(1+r)^n]
+
 La direttiva europea BRRD detta un protocollo di cura delle crisi bancarie che prevede, in rapida sequenza, l'emersione delle perdite latenti e la ricostituzione del capitale di Vigilanza al livello richiesto dalle Autorità (la BCE per le banche "significative" e la Banca d'Italia per le altre). Se dopo la rilevazione delle perdite la banca si ritrova con un capitale azzerato, o insufficiente a raggiungere il target posto dai supervisori (_guidance_), scatta il _bail-in_ (in senso lato): il _capital gap_ si copre con la svalutazione o con la conversione in azioni del debito subordinato e di quello non garantito (sono esclusi i depositi fino a 100.000 euro e i _covered bond_), in ordine inverso di _seniority_, con i privilegi e le esenzioni previste dalla BRRD o dalle norme di recepimento. Soltanto dopo questo _burden sharing_ a carico di azionisti e creditori aggredibili per almeno l'8% del totale di bilancio, la banca può ottenere fondi pubblici (in senso lato) dallo Stato, dai sistemi obbligatori di garanzia dei depositi, o dal Fondo di risoluzione istituito dalla BRRD.
 
 Che lo si chiami risanamento (quando la banca conserva un patrimonio, per quanto insufficiente) o risoluzione (quando la banca è insolvente), il percorso è questo. L'alternativa è la liquidazione della banca, con la tutela dei soli depositanti assicurati.
