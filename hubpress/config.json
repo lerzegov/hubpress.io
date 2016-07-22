@@ -4,7 +4,11 @@
     "repositoryName": "lerzegov.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Aleablog redux"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
