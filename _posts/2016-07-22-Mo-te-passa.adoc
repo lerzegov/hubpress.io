@@ -6,3 +6,6 @@
 == Questa sì che è vita
 
 stem:[x=2/y]
+
+
+image:smefinmobile.jpg[]
