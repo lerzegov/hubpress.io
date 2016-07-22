@@ -1,6 +1,6 @@
 = Mo te passa
 
-:stem: latexmath
+:stem:
 
 
 == Questa sì che è vita
